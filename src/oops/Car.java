@@ -18,5 +18,8 @@ public class Car extends Vehicle {
 	public void hasWindow() {
 		System.out.println("A car has window to see around while driving");
 	}
+	public void hasHand() {
+		System.out.println("hello i am ram");
+	}
 
 }

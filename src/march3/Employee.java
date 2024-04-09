@@ -1,4 +1,4 @@
-package march3.java.exam;
+package march3;
 
 public class Employee {
 	public static void main(String[] args) {

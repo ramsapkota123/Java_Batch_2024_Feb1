@@ -1,4 +1,4 @@
-package march3.java.exam;
+package march3;
 
 public class AssignmentSecond {
 
@@ -14,6 +14,7 @@ public class AssignmentSecond {
 		u.dispalyUniversityAddress();
 		u.displayRollNO();
 		u.dispalyUniversityName();
+	
 
 	}
 
